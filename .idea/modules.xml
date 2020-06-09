@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../corona-tracker/.idea/corona-tracker.iml" filepath="$PROJECT_DIR$/../corona-tracker/.idea/corona-tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/counter.iml" filepath="$PROJECT_DIR$/.idea/counter.iml" />
     </modules>
   </component>
